@@ -91,7 +91,7 @@ The `/sample_data` folder contains a few small, non-sensitive example documents 
 
 ## Screenshots / Demo
 
-*(Add screenshots or a short GIF here showing a sample query and the assistant's response)*
+![Grounded RAG assistant demo showing a sample query, cited response, and retrieval score](rag-demo.svg)\n\nThe example demonstrates a grounded healthcare-security response with source citations and retrieval confidence.
 
 ---
 
